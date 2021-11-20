@@ -104,6 +104,11 @@ git branch -M main
 git remote add origin https://github.com/Avnish327030/wafer_circleci.git
 git push -u origin main
 ```
+```
+git add.
+git commit -m "Second commit"
+git push
+
 
 ## create a account at circle ci
 
